@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Adityasingh552/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Adityasingh552/DSA/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/Adityasingh552/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Adityasingh552/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Adityasingh552/DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Adityasingh552/DSA/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/Adityasingh552/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Adityasingh552/DSA/tree/master/0231-power-of-two) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Adityasingh552/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Adityasingh552/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Adityasingh552/DSA/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Adityasingh552/DSA/tree/master/0072-edit-distance) |
+| [0322-coin-change](https://github.com/Adityasingh552/DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Adityasingh552/DSA/tree/master/0509-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Adityasingh552/DSA/tree/master/1143-longest-common-subsequence) |
 ## Recursion
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Adityasingh552/DSA/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Adityasingh552/DSA/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adityasingh552/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Adityasingh552/DSA/tree/master/0063-unique-paths-ii) |
+| [0322-coin-change](https://github.com/Adityasingh552/DSA/tree/master/0322-coin-change) |
 ## Matrix
 |  |
 | ------- |

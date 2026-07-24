@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Adityasingh552/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Adityasingh552/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Adityasingh552/DSA/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Adityasingh552/DSA/tree/master/0072-edit-distance) |
@@ -72,6 +73,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Adityasingh552/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/Adityasingh552/DSA/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/Adityasingh552/DSA/tree/master/1143-longest-common-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Adityasingh552/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

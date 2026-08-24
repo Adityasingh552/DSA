@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Adityasingh552/DSA/tree/master/0063-unique-paths-ii) |
+| [0238-product-of-array-except-self](https://github.com/Adityasingh552/DSA/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/Adityasingh552/DSA/tree/master/0322-coin-change) |
 ## Matrix
 |  |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Adityasingh552/DSA/tree/master/0005-longest-palindromic-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Adityasingh552/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

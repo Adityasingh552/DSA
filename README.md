@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Adityasingh552/DSA/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Adityasingh552/DSA/tree/master/0063-unique-paths-ii) |
 | [0189-rotate-array](https://github.com/Adityasingh552/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Adityasingh552/DSA/tree/master/0238-product-of-array-except-self) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Adityasingh552/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/Adityasingh552/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Adityasingh552/DSA/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/Adityasingh552/DSA/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
@@ -88,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Adityasingh552/DSA/tree/master/0238-product-of-array-except-self) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Adityasingh552/DSA/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Adityasingh552/DSA/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->

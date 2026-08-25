@@ -3,7 +3,6 @@ class Solution:
         anagram_map = defaultdict(list)
         
         for s in strs:
-            # Sorted characters form a canonical key for all anagrams
             key = "".join(sorted(s))
             anagram_map[key].append(s)
             

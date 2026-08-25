@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Adityasingh552/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Adityasingh552/DSA/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/Adityasingh552/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Adityasingh552/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Adityasingh552/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Adityasingh552/DSA/tree/master/0509-fibonacci-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Adityasingh552/DSA/tree/master/0063-unique-paths-ii) |
+| [0189-rotate-array](https://github.com/Adityasingh552/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Adityasingh552/DSA/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/Adityasingh552/DSA/tree/master/0322-coin-change) |
 ## Matrix
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Adityasingh552/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0189-rotate-array](https://github.com/Adityasingh552/DSA/tree/master/0189-rotate-array) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Adityasingh552/DSA/tree/master/0063-unique-paths-ii) |
 | [0189-rotate-array](https://github.com/Adityasingh552/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Adityasingh552/DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Adityasingh552/DSA/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/Adityasingh552/DSA/tree/master/0322-coin-change) |
 ## Matrix
 |  |
@@ -98,4 +99,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Adityasingh552/DSA/tree/master/0049-group-anagrams) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Adityasingh552/DSA/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Adityasingh552/DSA/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Adityasingh552/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Adityasingh552/DSA/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Adityasingh552/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

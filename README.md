@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Adityasingh552/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Adityasingh552/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Adityasingh552/DSA/tree/master/0509-fibonacci-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Adityasingh552/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Adityasingh552/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Adityasingh552/DSA/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/Adityasingh552/DSA/tree/master/0322-coin-change) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Adityasingh552/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
